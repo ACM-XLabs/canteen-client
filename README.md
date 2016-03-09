@@ -37,5 +37,10 @@ For an idea on git refer: https://gist.github.com/ythej/3e05c949bb0b8d393b57
 
 + Rahul Kanojia
 + Om Prakash Bajiya
+<<<<<<< HEAD
+
+=======
 + Noel Varghese
+ Gopi Doshi
+>>>>>>> refs/remotes/ACM-XLabs/master
 
