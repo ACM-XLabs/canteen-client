@@ -34,7 +34,7 @@ The above module includes development of an android application consisting of a 
 ***
 
 ###Team Members
-
++Shreya Pandya
 + Rahul Kanojia
 + Om Prakash Bajiya
 
