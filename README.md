@@ -22,9 +22,9 @@ The above module includes development of an android application consisting of a 
 + The main part is of **payment**, and for now we have decided it to be **in advance**. When the user places an order the amount will be deducted from his/her account as soon as he/she presses the order button.
 + If a user want to cancel his/her order then they have to go to shekhar bhai(admin) for an order cancellation request. If his/her order is not made till now then the order amount will be refunded to their respective accounts.
 + The notification part consist of notifying the user when his/her order is ready. We have set a timeout of 30 seconds (again which is temporary) after notification in which he/she have to collect the order. If the user fails to do so the item will be forwarded to someone else in the queue.
++ 
+For an idea on git refer: https://gist.github.com/ythej/3e05c949bb0b8d393b57
  
-
-
 
 ######The UI of this app has to be as simple as it can be. The user should be just a few taps away from ordering his/her food otherwise if the process of ordering is complicated no one will use it. Also the UI should look clean consisting of minimum buttons and not having unnecessary options.
 
@@ -37,5 +37,9 @@ The above module includes development of an android application consisting of a 
 
 + Rahul Kanojia
 + Om Prakash Bajiya
+<<<<<<< HEAD
 Gopi Doshi
+=======
++ Noel Varghese
+>>>>>>> refs/remotes/ACM-XLabs/master
 
