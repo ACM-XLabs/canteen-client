@@ -34,6 +34,7 @@ For an idea on git refer: https://gist.github.com/ythej/3e05c949bb0b8d393b57
 ***
 
 ###Team Members
+Mahima Bhootra
 
 + Rahul Kanojia
 + Om Prakash Bajiya
