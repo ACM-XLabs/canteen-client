@@ -3,6 +3,20 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-
     <string name="action_settings">Settings</string>
+    <string name="cart">Cart</string>
+    <string name="place_order">Place Order</string>
+
+    <!-- strings used in Bill dialog -->
+    <string name="dialogTitle">Title</string>
+    <string name="billConfirm">Confirm</string>
+    <string name="billCancel">Cancel</string>
+    <string name="total">Total:</string>
+    <string name="amount">Rs. 350</string>
+    <string name="Quantitytitle">Quantity</string>
+    <string name="Itemtitle">Item ordered</string>
+    <string name="Pricetitle">Price</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
