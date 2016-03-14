@@ -4,19 +4,19 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/new_order"
-            android:icon="@drawable/new_order"
+            android:icon="@drawable/new_orders"
             android:title="New +" />
         <item
             android:id="@+id/menu_favourtes"
-            android:icon="@drawable/menu_favourtes"
-            android:title="Favourties" />
+            android:icon="@drawable/favorite"
+            android:title="Favourte" />
         <item
             android:id="@+id/menu_wallet"
-            android:icon="@drawable/menu_wallet"
+            android:icon="@drawable/wallet"
             android:title="Wallet" />
         <item
             android:id="@+id/menu_setting"
-            android:icon="@drawable/menu_setting"
+            android:icon="@drawable/settings"
             android:title="Settings" />
     </group>
 
